@@ -8,7 +8,7 @@
             
 # 채팅방사용방법 
 ## 1. 접속할 채팅방 이름을 입력합니다.
-![image](https://github.com/chen7206/webRTC/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607204350.jpg?raw=true) 
+![image](https://github.com/chen7206/web1/blob/master/Capture.PNG?raw=true) 
    
 ***
 ## 2. 채팅이 시작됩니다. 1:1 채팅 뿐만 아니라 다수의 인원이 동시에 화상채팅이 가능합니다. 
@@ -29,7 +29,7 @@
                 
 # 聊天软件登录方法
 ## 1. 进入聊天室前，请双方输入相同的登录口令 
-![image](https://github.com/chen7206/webRTC/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607204350.jpg?raw=true) 
+![image](https://github.com/chen7206/web1/blob/master/Capture.PNG?raw=true) 
    
 ***
 ## 2. 登陆成功，现在可以开始聊天
@@ -51,7 +51,7 @@
               
 # Chat software login method
 ## 1. Enter the same password 
-![image](https://github.com/chen7206/webRTC/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607204350.jpg?raw=true) 
+![image](https://github.com/chen7206/web1/blob/master/Capture.PNG?raw=true) 
    
 ***
 ## 2. Landing success, start chatting
