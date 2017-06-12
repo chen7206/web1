@@ -2,8 +2,9 @@
 ### webRTC를 이용한 채팅 프로그램 입니다. 이 프로그램은 동국대학교 공개 SoftWare 강의시간에 팀 프로젝트로 제작했습니다.
 ## 주제： webRTC
 ### 팀원
--  석정한, 심희오, 강정석, 천훼 
-    
+```
+ 석정한, 심희오, 강정석, 천훼 
+ ```  
          
             
 # 채팅방사용방법 
@@ -22,8 +23,9 @@
 ### 我们是东国大学 计算机系软件课程的实习成员，这次我们选择的课题是webRTC   
 ## 课题： webRTC
 ### 组员
--  石正韩, 沈熙旿, 江政爽, 陈辉
-   
+```
+ 石正韩, 沈熙旿, 江政爽, 陈辉
+ ```  
        
            
                 
@@ -46,8 +48,9 @@
 ## Topics： webRTC 
     
 ### Teammate
--  Jeonghan Seock, Shim Hee Oh, Kang Jung, Chen Hui
-    
+```
+Jeonghan Seock, Shim Hee Oh, Kang Jung, Chen Hui
+```    
         
            
               
